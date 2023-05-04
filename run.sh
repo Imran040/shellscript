@@ -13,4 +13,6 @@ free -g
 
 uptime
 
+top
+
 echo "take care"
